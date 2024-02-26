@@ -1,0 +1,17 @@
+.tweet-box {
+    border: 5px solid aqua;
+    border-radius: 30px;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    width: 30rem;
+    margin: 1rem;
+}
+
+.tweet {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(61, 61, 61);
+}
+
+.message {
+    font-size: 2.5rem;
+}
